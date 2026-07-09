@@ -24,4 +24,4 @@ Front-End Developer
  </p>
 
 
-### [<img src="https://img.shields.io/badge/_My CV_link_-white?style=for-the-badge">](https://drive.google.com/file/d/1WshxVgN8mwfjPkmDoD0RiVqYyrQ804TU/view?usp=sharing)
+### [<img src="https://img.shields.io/badge/_My CV_link_-white?style=for-the-badge">]()
